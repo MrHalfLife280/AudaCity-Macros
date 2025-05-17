@@ -1,7 +1,0 @@
-Hochpassfilter:FREQUENCY="100" ROLLOFF="dB12"
-Tiefpassfilter:FREQUENCY="8500" ROLLOFF="dB12"
-Verzerrung:DC_Block="0" Noise_Floor="-70" Parameter_1="20" Parameter_2="50" Repeats="1" Threshold_dB="-10" Type="Hard Clipping"
-Begrenzer:GAIN-L="0" GAIN-R="0" HOLD="10" MAKEUP="No" THRESH="-1" TYPE="HardLimit"
-Hall:reverberance="30" hf_damping="25" room_size="15" pre_delay="10" wet_gain="-15" dry_gain="0" stereo_width="100" wet_only="No"
-Abtastrate ändern:Rate="22050"
-Verstärken:Amplification="-3" AllowClipping="No"
