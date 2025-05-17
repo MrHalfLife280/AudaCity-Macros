@@ -1,0 +1,6 @@
+Normalize:ApplyGain="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+Distortion:DC_Block="0" Noise_Floor="-70" Parameter_1="20" Parameter_2="50" Repeats="5" Threshold_dB="-15" Type="Hard Overdrive"
+Hochpassfilter:FREQUENCY="300" ROLLOFF="dB48"
+Tiefpassfilter:FREQUENCY="3000" ROLLOFF="dB36"
+Limiter:gain-L="10" gain-R="10" hold="10" makeup="No" thresh="-10" type="HardLimit"
+Compressor:AttackTime="0.2" NoiseFloor="-40" Normalize="0" Ratio="2" ReleaseTime="1" Threshold="-12" UsePeak="0"
