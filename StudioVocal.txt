@@ -1,7 +1,0 @@
-Normalize:ApplyVolume="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
-Hochpassfilter:FREQUENCY="80" ROLLOFF="dB12"
-Tiefpassfilter:FREQUENCY="16000" ROLLOFF="dB6"
-Compressor:attackMs="10" compressionRatio="4" kneeWidthDb="2" lookaheadMs="1" makeupGainDb="3" releaseMs="200" showActual="0" showInput="0" showOutput="0" showTarget="0" thresholdDb="-18"
-Begrenzer:GAIN-L="0" GAIN-R="0" HOLD="10" MAKEUP="Yes" THRESH="-1" TYPE="SoftLimit"
-Reverb:reverberance="10" hf_damping="30" room_size="20" pre_delay="5" wet_gain="-18" dry_gain="0" stereo_width="100" wet_only="No"
-Amplify:Amplification="-1" AllowClipping="No"
